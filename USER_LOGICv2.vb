@@ -6,7 +6,8 @@ Imports System.Net.Sockets
 
 
 Public Class USER_LOGICv2
-
+    '' This is the stupid comment I am making to show changes. 
+    
     ''
     '' creation data: 8-15-2015 @ 928am
     '' author: a.clay
